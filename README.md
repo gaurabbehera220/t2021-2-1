@@ -2,4 +2,4 @@
 
 coding Language- Javascript
 
-comments
+comments - results are shown with console.log()
